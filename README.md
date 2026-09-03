@@ -134,4 +134,6 @@ xwayland-satellite
 |<kbd>Super</kbd> + <kbd>Escape</kbd>| Toggle Keyboard Shortcuts Inhibit
 
 
+# Credits
 
+Thanks to niri and noctalia dev
