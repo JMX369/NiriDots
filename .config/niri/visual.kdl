@@ -106,7 +106,7 @@ layout {
     // You can enable drop shadows for windows.
     shadow {
         // Uncomment the next line to enable shadows.
-        off
+        on
 
         // By default, the shadow draws only around its window, and not behind it.
         // Uncomment this setting to make the shadow draw behind its window.
@@ -131,7 +131,7 @@ layout {
         softness 5
 
         // Spread expands the shadow.
-        spread 5
+        spread 2
 
         // Offset moves the shadow relative to the window.
         offset x=-15 y=15
@@ -189,6 +189,7 @@ layer-rule {
 window-rule {
     match app-id="geany"
     match app-id="caja"
+    match app-id="pcmanfm"
     match app-id="nwg"
     match app-id="noctalia"
     opacity 0.92
