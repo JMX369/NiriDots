@@ -19,7 +19,7 @@ niri
 noctalia V5 or >
 cozette
 pamixer
-caja (mate)
+pcmanfm
 xdg-desktop-portal-gnome
 xwayland-satellite
 ```
@@ -30,7 +30,7 @@ xwayland-satellite
 |:-|:-|
 |<kbd>Super</kbd> + <kbd>T</kbd>| Open Terminal (foot)
 |<kbd>Super</kbd> + <kbd>B</kbd>| Browser (Waterfox)
-|<kbd>Super</kbd> + <kbd>E</kbd>| File Manager (Caja)
+|<kbd>Super</kbd> + <kbd>E</kbd>| File Manager (PCmanFM)
 |<kbd>Super</kbd> + <kbd>Space</kbd>| Show Launcher
 |<kbd>Super</kbd> + <kbd>S</kbd>| Toggle Control Center
 |<kbd>Super</kbd> + <kbd>,</kbd>| Toggle Noctalia Settings
