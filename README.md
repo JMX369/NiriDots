@@ -1,30 +1,14 @@
-<<<<<<< HEAD
 # NiriDots
 A Niri build, created for void and neko void, it strikes a balance between comfort, visual appeal, and performance
-=======
-# LabwcDots
-A LabWC build designed for Void and Neko Void, intended to be lightweight, modular, and easy to use, featuring Noctalia
+
 
 
 # Screenshot
-<img width="1823" height="1023" alt="screenshot_20260902_155018-region" src="https://github.com/user-attachments/assets/8dda2305-e69f-4ebf-a37a-8bc5de10c71b" />
 
 # Deps
 
 ```
-foot
-adw-theme or similar
-dbus
-kanshi
-labwc
-labwc-tweaks
-labwc-menu-generator
-noctalia V5 or >
-cozette
-pamixer
-caja (mate)
-xdg-desktop-portal-wlr
-xwayland-satellite
+
 ```
 # Keybinds
 
