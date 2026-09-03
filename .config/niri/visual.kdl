@@ -134,7 +134,7 @@ layout {
         spread 2
 
         // Offset moves the shadow relative to the window.
-        offset x=-15 y=15
+        offset x=-15 y=-15
 
         // You can also change the shadow color and opacity.
         color "#0007"
