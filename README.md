@@ -20,7 +20,7 @@ noctalia V5 or >
 cozette
 pamixer
 caja (mate)
-xdg-desktop-portal-wlr
+xdg-desktop-portal-gnome
 xwayland-satellite
 ```
 # Keybinds
